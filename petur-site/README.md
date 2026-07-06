@@ -1,4 +1,4 @@
-# ग्रामपंचायत पेठूर — Static Website
+# ग्रामपंचायत पेटुर — Static Website
 
 Static HTML/CSS site (no backend) for Gram Panchayat Petur, Taluka Wani, District Yavatmal (PIN 445304).
 
